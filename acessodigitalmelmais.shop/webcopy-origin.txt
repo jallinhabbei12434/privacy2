@@ -1,0 +1,64 @@
+Uri: https://acessodigitalmelmais.shop/
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\index.htm
+Content Type: text/html
+
+Uri: https://acessodigitalmelmais.shop/bannermelmaia3.jpg
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\bannermelmaia3.jpg
+Content Type: image/jpeg
+
+Uri: https://acessodigitalmelmais.shop/fotomelmaia1.jpg
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\fotomelmaia1.jpg
+Content Type: image/jpeg
+
+Uri: https://acessodigitalmelmais.shop/fotomelmaia3.jpg
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\fotomelmaia3.jpg
+Content Type: image/jpeg
+
+Uri: https://acessodigitalmelmais.shop/fotoperfilmelmaia1.jpg
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\fotoperfilmelmaia1.jpg
+Content Type: image/jpeg
+
+Uri: https://acessodigitalmelmais.shop/images/219-images-favicon.png
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\images\219-images-favicon.png
+Content Type: image/png
+
+Uri: https://acessodigitalmelmais.shop/images/images-logo.webp
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\images\images-logo.webp
+Content Type: image/webp
+
+Uri: https://acessodigitalmelmais.shop/videomelmaia02.mp4
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\videomelmaia02.mp4
+Content Type: video/mp4
+
+Uri: https://acessodigitalmelmais.shop/videomelmaia03.mp4
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\videomelmaia03.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://www.facebook.com/tr?id=1350512442698615&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\acessodigitalmelmais.shop\tr
+Content Type: text/plain
+
