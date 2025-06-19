@@ -1,0 +1,60 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://resgateacessohoje.shop/juliana/pv/
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\juliana\pv\index.htm
+Content Type: text/html
+
+Uri: https://resgateacessohoje.shop/juliana/pv/bannerjuliana.jpg
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\juliana\pv\bannerjuliana.jpg
+Content Type: image/jpeg
+
+Uri: https://resgateacessohoje.shop/juliana/pv/fotojuliana.jpg
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\juliana\pv\fotojuliana.jpg
+Content Type: image/jpeg
+
+Uri: https://resgateacessohoje.shop/juliana/pv/fotoperfiljuliana.jpg
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\juliana\pv\fotoperfiljuliana.jpg
+Content Type: image/jpeg
+
+Uri: https://resgateacessohoje.shop/juliana/pv/images/219-images-favicon.png
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\juliana\pv\images\219-images-favicon.png
+Content Type: image/png
+
+Uri: https://resgateacessohoje.shop/juliana/pv/images/images-logo.webp
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\juliana\pv\images\images-logo.webp
+Content Type: image/webp
+
+Uri: https://resgateacessohoje.shop/juliana/pv/juliana2.mp4
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\juliana\pv\juliana2.mp4
+Content Type: video/mp4
+
+Uri: https://resgateacessohoje.shop/juliana/pv/juliana3.mp4
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\juliana\pv\juliana3.mp4
+Content Type: video/mp4
+
+Uri: https://resgateacessohoje.shop/juliana/pv/videojuliana1.mp4
+File Name: C:\Downloaded Web Sites\resgateacessohoje.shop\juliana\pv\videojuliana1.mp4
+Content Type: video/mp4
+
