@@ -1,0 +1,444 @@
+Uri: https://fernandinhacomvc.online/
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\index.htm
+Content Type: text/html
+
+Uri: https://fernandinhacomvc.online/css/default-skin.min.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\default-skin.min.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/elementor-icons.min.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/frontend-lite.min.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/frontend-lite.min_1.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\frontend-lite.min_1.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/general.min.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\general.min.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/global.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\global.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/photoswipe.min.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/post-14274.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\post-14274.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/post-6.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\post-6.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/style.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\style.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/twenty-twenty-two.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\twenty-twenty-two.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/wc-blocks.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\wc-blocks.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/woocommerce-blocktheme.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\woocommerce-blocktheme.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/woocommerce-layout.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/css/woocommerce-smallscreen.css
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://fernandinhacomvc.online/fonts/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://fernandinhacomvc.online/fonts/eicons.eot
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fernandinhacomvc.online/fonts/eicons.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://fernandinhacomvc.online/fonts/eicons.woff
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://fernandinhacomvc.online/fonts/eicons.woff2
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://fernandinhacomvc.online/fonts/Inter-VariableFont_slnt%2Cwght.woff2
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://fernandinhacomvc.online/fonts/SourceSerif4Variable-Italic.ttf.woff2
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\SourceSerif4Variable-Italic.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://fernandinhacomvc.online/fonts/SourceSerif4Variable-Roman.ttf.woff2
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\SourceSerif4Variable-Roman.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://fernandinhacomvc.online/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://fernandinhacomvc.online/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://fernandinhacomvc.online/fonts/WooCommerce.woff2
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\fonts\WooCommerce.woff2
+Content Type: font/woff2
+
+Uri: https://fernandinhacomvc.online/images/default-skin.png
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\default-skin.png
+Content Type: image/png
+
+Uri: https://fernandinhacomvc.online/images/default-skin.svg
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://fernandinhacomvc.online/images/eicons.svg
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://fernandinhacomvc.online/images/loader.svg
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://fernandinhacomvc.online/images/preloader.gif
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://fernandinhacomvc.online/images/prewhats-300x217.jpg
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\prewhats-300x217.jpg
+Content Type: image/jpeg
+
+Uri: https://fernandinhacomvc.online/images/prewhats-600x434.jpg
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\prewhats-600x434.jpg
+Content Type: image/jpeg
+
+Uri: https://fernandinhacomvc.online/images/prewhats-768x555.jpg
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\prewhats-768x555.jpg
+Content Type: image/jpeg
+
+Uri: https://fernandinhacomvc.online/images/prewhats.jpg
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\prewhats.jpg
+Content Type: image/jpeg
+
+Uri: https://fernandinhacomvc.online/images/Screenshot_5-159x300.jpg
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\Screenshot_5-159x300.jpg
+Content Type: image/jpeg
+
+Uri: https://fernandinhacomvc.online/images/Screenshot_5.jpg
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\images\Screenshot_5.jpg
+Content Type: image/jpeg
+
+Uri: https://fernandinhacomvc.online/js/add-to-cart-variation.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/add-to-cart.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/core.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\core.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/elements-handlers.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/frontend-modules.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/frontend.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/frontend.min_1.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\frontend.min_1.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/general.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\general.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/hooks.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/i18n.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/jquery.blockUI.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/jquery.flexslider.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\jquery.flexslider.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/jquery.zoom.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\jquery.zoom.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/js.cookie.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/order-attribution.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\order-attribution.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/photoswipe-ui-default.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/photoswipe.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/single-product.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/sourcebuster.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\sourcebuster.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/underscore.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/webpack-pro.runtime.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/webpack.runtime.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/woocommerce.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/wp-emoji-release.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\wp-emoji-release.min.js
+Content Type: application/javascript
+
+Uri: https://fernandinhacomvc.online/js/wp-util.min.js
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.8.1
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\poppins\v23\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://mktingv.com/comments/feed/
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mktingv.com/feed/
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mktingv.com/wp-json/
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://mktingv.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmktingv.com%2Felementor-14274%2F
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://mktingv.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmktingv.com%2Felementor-14274%2F&format=xml
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://mktingv.com/wp-json/wp/v2/pages/14274
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\wp-json\wp\v2\pages\14274
+Content Type: application/json
+
+Uri: https://mktingv.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\fernandinhacomvc.online\xmlrpc.php
+Content Type: text/xml
+
